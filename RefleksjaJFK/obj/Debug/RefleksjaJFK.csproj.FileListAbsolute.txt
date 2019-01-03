@@ -1,0 +1,17 @@
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\RefleksjaJFK.exe.config
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\RefleksjaJFK.exe
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\RefleksjaJFK.pdb
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.csprojAssemblyReference.cache
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.Form1.resources
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.Properties.Resources.resources
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.csproj.GenerateResource.cache
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.csproj.CoreCompileInputs.cache
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.exe
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.pdb
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\FirstClass.dll
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\SecondClass.dll
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\Whatever.dll
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\FirstClass.pdb
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\SecondClass.pdb
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\bin\Debug\Whatever.pdb
+C:\Users\ppmic\source\repos\RefleksjaJFK\RefleksjaJFK\obj\Debug\RefleksjaJFK.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\ppmic\source\repos\RefleksjaJFK\Whatever\bin\Debug\Whatever.dll
+C:\Users\ppmic\source\repos\RefleksjaJFK\Whatever\bin\Debug\Whatever.pdb
+C:\Users\ppmic\source\repos\RefleksjaJFK\Whatever\obj\Debug\Whatever.csprojAssemblyReference.cache
+C:\Users\ppmic\source\repos\RefleksjaJFK\Whatever\obj\Debug\Whatever.csproj.CoreCompileInputs.cache
+C:\Users\ppmic\source\repos\RefleksjaJFK\Whatever\obj\Debug\Whatever.dll
+C:\Users\ppmic\source\repos\RefleksjaJFK\Whatever\obj\Debug\Whatever.pdb

@@ -1,0 +1,9 @@
+C:\Users\ppmic\source\repos\RefleksjaJFK\SecondClass\bin\Debug\SecondClass.dll
+C:\Users\ppmic\source\repos\RefleksjaJFK\SecondClass\bin\Debug\SecondClass.pdb
+C:\Users\ppmic\source\repos\RefleksjaJFK\SecondClass\bin\Debug\Whatever.dll
+C:\Users\ppmic\source\repos\RefleksjaJFK\SecondClass\bin\Debug\Whatever.pdb
+C:\Users\ppmic\source\repos\RefleksjaJFK\SecondClass\obj\Debug\SecondClass.csprojAssemblyReference.cache
+C:\Users\ppmic\source\repos\RefleksjaJFK\SecondClass\obj\Debug\SecondClass.csproj.CoreCompileInputs.cache
+C:\Users\ppmic\source\repos\RefleksjaJFK\SecondClass\obj\Debug\SecondClass.csproj.CopyComplete
+C:\Users\ppmic\source\repos\RefleksjaJFK\SecondClass\obj\Debug\SecondClass.dll
+C:\Users\ppmic\source\repos\RefleksjaJFK\SecondClass\obj\Debug\SecondClass.pdb

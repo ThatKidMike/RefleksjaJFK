@@ -1,0 +1,9 @@
+C:\Users\ppmic\source\repos\RefleksjaJFK\FirstClass\bin\Debug\FirstClass.dll
+C:\Users\ppmic\source\repos\RefleksjaJFK\FirstClass\bin\Debug\FirstClass.pdb
+C:\Users\ppmic\source\repos\RefleksjaJFK\FirstClass\bin\Debug\Whatever.dll
+C:\Users\ppmic\source\repos\RefleksjaJFK\FirstClass\bin\Debug\Whatever.pdb
+C:\Users\ppmic\source\repos\RefleksjaJFK\FirstClass\obj\Debug\FirstClass.csprojAssemblyReference.cache
+C:\Users\ppmic\source\repos\RefleksjaJFK\FirstClass\obj\Debug\FirstClass.csproj.CoreCompileInputs.cache
+C:\Users\ppmic\source\repos\RefleksjaJFK\FirstClass\obj\Debug\FirstClass.csproj.CopyComplete
+C:\Users\ppmic\source\repos\RefleksjaJFK\FirstClass\obj\Debug\FirstClass.dll
+C:\Users\ppmic\source\repos\RefleksjaJFK\FirstClass\obj\Debug\FirstClass.pdb
